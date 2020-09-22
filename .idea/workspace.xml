@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84b272f1-36bb-4018-a083-2a6815cfbb00" name="Default Changelist" comment="" />
+    <list default="true" id="84b272f1-36bb-4018-a083-2a6815cfbb00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution />
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,6 +20,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -31,13 +38,29 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="84b272f1-36bb-4018-a083-2a6815cfbb00" name="Default Changelist" comment="" />
@@ -46,21 +69,32 @@
       <option name="presentableId" value="Default" />
       <updated>1600158958926</updated>
       <workItem from="1600158959965" duration="8884000" />
+      <workItem from="1600766655102" duration="654000" />
+      <workItem from="1600767573863" duration="3870000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="27" key="#com.intellij.ide.util.MemberChooser" timestamp="1600163328756">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="27" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600163328756" />
-    <state x="605" y="88" key="NewPhpClassDialog" timestamp="1600168369321">
+    <state x="127" y="109" width="1643" height="822" key="CommitChangelistDialog2" timestamp="1600775040684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="127" y="109" width="1643" height="822" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600775040684" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1600767567093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600767567093" />
+    <state x="605" y="88" key="NewPhpClassDialog" timestamp="1600770200391">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="88" key="NewPhpClassDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600168369321" />
+    <state x="605" y="88" key="NewPhpClassDialog/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600770200391" />
     <state x="696" y="393" key="NewPhpFileDialog" timestamp="1600168784943">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -69,6 +103,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="220" y="0" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600161172174" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1600766659579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600766659579" />
     <state x="364" y="228" key="run.anything.popup" timestamp="1600166468425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
