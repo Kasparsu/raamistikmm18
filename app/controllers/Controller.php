@@ -14,8 +14,5 @@ class Controller
         $title = "page 2";
         view('page', compact('title'));
     }
-    public function page3(){
-        $title = "page 3";
-        view('page', compact('title'));
-    }
+
 }
