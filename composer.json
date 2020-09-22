@@ -1,0 +1,10 @@
+{
+    "name": "kaspa/raamistikmm18",
+    "authors": [
+        {
+            "name": "Kaspar Suursalu",
+            "email": "kasparsu@gmail.com"
+        }
+    ],
+    "require": {}
+}
